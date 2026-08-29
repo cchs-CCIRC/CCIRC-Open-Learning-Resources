@@ -1,7 +1,7 @@
 # CCIRC Open Resources
 
 <p align="center">
-  <img src="asset/profile.png" width="200">
+  <img src="asset/ccirc-logo.jpg" width="200">
 </p>
 
 **精誠中學資訊讀書會 ·** ***C**hing **C**heng high school **I**nformation **R**eading **C**lub*
