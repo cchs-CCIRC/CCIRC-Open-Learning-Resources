@@ -1,6 +1,9 @@
 # CCIRC Open Resources
 
-![CCIRC](ccirc-logo.jpg)
+<p align="center">
+  <img src="ccirc-logo.jpg" width="200">
+</p>
+
 
 > Free and open educational resources created by CCIRC.
 
