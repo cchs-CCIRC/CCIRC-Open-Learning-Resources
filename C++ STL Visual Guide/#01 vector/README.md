@@ -6,6 +6,7 @@
 
 ## Files
 
+- 1~4.png — transparent background image
 - `vector.png` — PNG version
 - `vector.svg` — SVG version
 
