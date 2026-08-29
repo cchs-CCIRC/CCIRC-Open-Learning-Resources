@@ -37,3 +37,17 @@ containers and concepts.
 | # | Topic | Chinese |
 |---|---|---|
 | 01 | `vector` | 動態陣列 |
+
+---
+
+## 📄 License
+
+You are free to:
+
+- Share
+- Copy
+- Redistribute
+- Remix
+- Adapt
+
+with appropriate attribution.
